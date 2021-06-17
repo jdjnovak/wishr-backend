@@ -34,6 +34,7 @@ Steps to run this project:
 
 ## Installation and Running
 
-1. Run `npm i` command
-2. Setup database settings inside `ormconfig.json` file
-3. Run `npm start` command
+1. Add a public and private key in the root directory.
+2. Run `npm i` command
+3. Setup database settings inside `ormconfig.json` file
+4. Run `npm start` command
