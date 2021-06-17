@@ -1,4 +1,5 @@
-# Awesome Project Build with TypeORM
+# Wishr Backend
+Backend for Wishr built with TypeORM.  
 
 Steps to run this project:
 
