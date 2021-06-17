@@ -1,7 +1,11 @@
 # Wishr Backend
 Backend for Wishr built with TypeORM.  
 
-Steps to run this project:
+## Installation and Running
+1. Add a public and private key in the root directory.
+2. Run `npm i` command
+3. Setup database settings inside `ormconfig.json` file
+4. Run `npm start` command
 
 ## Needed Endpoints
 ### Users
@@ -31,10 +35,3 @@ Steps to run this project:
 | No | GET | Get an item | /item/:id |
 | No | PUT | Update an item | /item/:id |
 | No | DELETE | Delete an item | /item/:id |
-
-## Installation and Running
-
-1. Add a public and private key in the root directory.
-2. Run `npm i` command
-3. Setup database settings inside `ormconfig.json` file
-4. Run `npm start` command
